@@ -1,7 +1,6 @@
 # Informationsleiter: Wie viel ist Wissen beim Auswählen wert? – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-informationsleiter-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-informationsleiter-demo.streamlit.app/)**
 
 Stück 4 der Rätsel-Reihe (Arbeitstitel „Teamrätsel“: Aufgaben, bei denen eine Strategie vorab feststeht und danach mit beschränkter Information gehandelt wird) für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, das **Sekretärinnenproblem ausgebaut**. Vehikel: **Spotfracht-Angebote**, die ein Disponent eines Tages **nacheinander** sieht und von denen er jedes sofort annehmen oder ablehnen muss; ein abgelehntes Angebot ist weg. **Dieselbe zufällige Folge** geht durch mehrere **Wissensstufen** (nur die Rangordnung, Werte bekannt, Anzahl unbekannt) und wird an einem wählbaren **Ziel** gemessen: das höchste Angebot (Treffer), kleiner erwarteter Rang oder hoher erwarteter Wert. Die unterste Sprosse der Leiter ist das Umschlag-Spiel mit Zufallsschwelle (n = 2, eine andere Aufgabenform).
 
